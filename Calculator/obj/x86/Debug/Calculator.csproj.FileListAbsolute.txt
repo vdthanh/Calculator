@@ -7,3 +7,5 @@ C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.read
 C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
 C:\Users\Admin\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Admin\Desktop\demo\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Admin\Desktop\demo\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
